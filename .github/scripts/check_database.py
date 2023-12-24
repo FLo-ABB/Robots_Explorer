@@ -215,8 +215,8 @@ def main() -> None:
             print("JSON file format is invalid")
             return None
         jsons_equals = is_json_files_equal(json_file_extracted, json_file_website)
-        image_extracted_folder_path = os.path.join(extracted_path, "img", "abb_images")
-        image_website_folder_path = os.path.join("assets", "scripts", "img", "abb_images")
+        image_extracted_folder_path = os.path.join(extracted_path, "assets", "img", "abb_images")
+        image_website_folder_path = os.path.join("assets", "img", "abb_images")
         is_imgs_equal(image_extracted_folder_path, image_website_folder_path)
         if not jsons_equals:
             with open(os.path.join("assets", "scripts", "inlineJson.js"), "w") as f:
