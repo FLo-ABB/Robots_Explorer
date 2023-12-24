@@ -64,8 +64,8 @@ def is_json_format_validated(json_obj: json) -> bool:
     items = json_obj["items"]
     for item in items:
         if ("product_name" not in item or "product_thumb" not in item or "tittle" not in item or "description" not in item
-            or "read_more_url" not in item or "product_type" not in item or "controller" not in item or "variants" not in item
-            ):
+            or "read_more_url" not in item or "product_type" not in item or "controller" not in item
+                or "variants" not in item):
             return False
 
         variants = item["variants"]
