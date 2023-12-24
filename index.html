@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <title>Robots Explorer</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.min.css">
+    <link rel="stylesheet" href="assets/stylesheets/style.css">
+    <link rel="icon" type="image/x-icon" href="assets/img/favicon.ico">
+    <meta name="description" content="Tools to find competitors robot model">
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-7C2F24L5Y7"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+        gtag('config', 'G-7C2F24L5Y7');
+    </script>
+</head>
+
+<body>
+    <header>
+        <img src="assets/img/flo.png" alt="FLo-ABB logo">
+        <h1>🔎 Robots Explorer</h1>
+    </header>
+    <div id="content">
+        <section id="closestRobotSection">
+            <h2>Robots Table</h2>
+            <div id="closestRobotSelectionAndTable">
+                <div id="closestRobotSelection">
+                    <select id="closestRobotBrand">
+                        <option value="" disabled selected>Select robots manufacturer</option>
+                        <option value="ABB">ABB</option>
+                        <option value="Fanuc">Fanuc</option>
+                        <option value="KUKA">KUKA</option>
+                        <option value="Staubli">Staubli</option>
+                        <option value="Yaskawa Motoman">Yaskawa Motoman</option>
+                    </select>
+                </div>
+            </div>
+        </section>
+        <section id="chartSection">
+            <h2>Robots Chart</h2>
+            <div id="canvas">
+                <canvas id="chart"></canvas>
+            </div>
+            <div id="checkboxContainer">
+                <div class="checkboxesColumn">
+                    <label><input type="checkbox" value="ABB" name="brand" checked> ABB</label>
+                    <label><input type="checkbox" value="Fanuc" name="brand" checked> Fanuc</label>
+                    <label><input type="checkbox" value="KUKA" name="brand" checked> KUKA</label>
+                </div>
+                <div class="checkboxesColumn">
+                    <label><input type="checkbox" value="Staubli" name="brand" checked> Staubli</label>
+                    <label><input type="checkbox" value="Yaskawa Motoman" name="brand" checked> Yaskawa </label>
+                </div>
+            </div>
+    </div>
+    </section>
+    <footer>
+        <p>
+            Source: <a href="https://robodk.com/fr/library" target="_blank">RoboDK</a>
+        </p>
+    </footer>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/hammerjs@2.0.8"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chartjs-plugin-zoom@2.0.1/dist/chartjs-plugin-zoom.min.js"></script>
+    <script
+        src="https://cdnjs.cloudflare.com/ajax/libs/chartjs-plugin-annotation/3.0.1/chartjs-plugin-annotation.min.js"></script>
+    <script defer src="assets/scripts/robodk_data.js"></script>
+    <script defer src="assets/scripts/inlineJson.js"></script>
+    <script defer src="assets/scripts/utils_data.js"></script>
+    <script defer src="assets/scripts/chart.js"></script>
+    <script defer src="assets/scripts/table.js"></script>
+</body>
+
+</html>
