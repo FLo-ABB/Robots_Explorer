@@ -60,17 +60,17 @@ def update_changes_made(old_data: dict, new_data: dict) -> None:
     # check if if keys has been removed
     for robot in old_data.keys():
         if robot not in new_data.keys():
-            changes_made += f"\t'{robot}' has been removed\n"
+            changes_made += f"\t'{robot}' has been removed (RoboDK)\n"
     # check if keys has been added
     for robot in new_data.keys():
         if robot not in old_data.keys():
-            changes_made += f"\t'{robot}' has been added\n"
+            changes_made += f"\t'{robot}' has been added (RoboDK)\n"
     # check if keys has been updated
     for robot in new_data.keys():
         if robot in old_data.keys():
             for key, value in new_data[robot].items():
                 if value != old_data[robot].get(key):
-                    changes_made += f"\t'{robot}'s {key} has been updated, from '{old_data[robot].get(key)}' to '{value}'\n"
+                    changes_made += f"\t'{robot}'s {key} has been updated, from '{old_data[robot].get(key)}' to '{value} (RoboDK)'\n"
     return changes_made
 
 

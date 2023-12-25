@@ -101,10 +101,10 @@ def is_json_files_equal(json_file_extracted: Dict, json_file_website: Dict) -> b
     deleted_items = website_names - extracted_names
 
     for item_name in added_items:
-        changes_made += f"\t{item_name} added\n"
+        changes_made += f"\t{item_name} added (AR Viewer App Database)\n"
 
     for item_name in deleted_items:
-        changes_made += f"\t{item_name} deleted\n"
+        changes_made += f"\t{item_name} deleted (AR Viewer App Database)\n"
 
     for item_extracted in items_extracted:
         item_name = item_extracted.get('product_name')
@@ -139,11 +139,11 @@ def is_imgs_equal(image_folder_extracted: str, image_folder_website: str) -> boo
         if not os.path.isfile(img_website):
             imgs_equal = False
             img_to_update.add(img_name)
-            changes_made += f"\tAdded {img_name} to img folder\n"
+            changes_made += f"\tAdded {img_name} to img folder (AR Viewer App Database)\n"
         elif (os.path.getsize(img_extracted) != os.path.getsize(img_website)):
             imgs_equal = False
             img_to_update.add(img_name)
-            changes_made += f"\tUpdated {img_name} in img folder\n"
+            changes_made += f"\tUpdated {img_name} in img folder (AR Viewer App Database)\n"
     return imgs_equal
 
 

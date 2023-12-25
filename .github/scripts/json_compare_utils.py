@@ -22,7 +22,8 @@ def check_item_variants(item_extracted: Dict, item_website: Dict, item_name: str
                 changes_made += check_added_variants(item_extracted, item_website, item_name)
                 changes_made += check_updated_or_deleted_variants(item_extracted, item_website, item_name)
             else:
-                changes_made += f"\tIn {item_name}, the {key} has been updated, from '{item_website.get(key)}' to '{value}'\n"
+                changes_made += f"\tIn {item_name}, the {key} has been updated, from '{
+                    item_website.get(key)}' to '{value}' (AR Viewer App Database)\n"
     return changes_made
 
 
@@ -47,7 +48,7 @@ def check_added_variants(item_extracted: Dict, item_website: Dict, item_name: st
         variant_website = next((variant for variant in website_variants if variant.get('name') == variant_name), None)
 
         if variant_website is None:
-            changes_made += f"\tIn {item_name}'s family, the variant '{variant_name}' has been added\n"
+            changes_made += f"\tIn {item_name}'s family, the variant '{variant_name}' has been added (AR Viewer App Database)\n"
     return changes_made
 
 
@@ -72,12 +73,12 @@ def check_updated_or_deleted_variants(item_extracted: Dict, item_website: Dict, 
         variant_extracted = next((variant for variant in extracted_variants if variant.get('name') == variant_name), None)
 
         if variant_extracted is None:
-            changes_made += f"\tIn {item_name}'s family, the variant '{variant_name}' has been deleted\n"
+            changes_made += f"\tIn {item_name}'s family, the variant '{variant_name}' has been deleted (AR Viewer App Database)\n"
         else:
             for variant_key, variant_value in variant_extracted.items():
                 if variant_value != variant_website.get(variant_key):
                     changes_made += f"\tIn {item_name}'s family, the variant '{variant_name}'s {variant_key} has been updated,\
-                          from '{variant_website.get(variant_key)}' to '{variant_value}'\n"
+                          from '{variant_website.get(variant_key)}' to '{variant_value}' (AR Viewer App Database)\n"
     return changes_made
 
 
@@ -96,7 +97,7 @@ def check_json_refactoring(json_file_extracted: Dict, json_file_website: Dict) -
     if json_file_extracted.keys() != json_file_website.keys():
         global equality
         equality = False
-        changes_made += "\tJSON refactoring\n"
+        changes_made += "\tJSON refactoring (AR Viewer App Database)\n"
     return changes_made
 
 
