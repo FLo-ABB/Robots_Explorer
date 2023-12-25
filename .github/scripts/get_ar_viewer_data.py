@@ -1,4 +1,3 @@
-import datetime
 import json
 import os
 import shutil
@@ -6,11 +5,11 @@ import zipfile
 from typing import Dict
 from json import JSONDecodeError
 
-from json_compare_utils import check_item_variants, check_json_refactoring
+from json_compare_utils import check_item_variants, check_json_refactoring, get_json_from_js_var
 
 import requests
 
-changes_made = f"-{datetime.datetime.now().strftime('%Y-%m-%d')}: \n"
+changes_made = ""
 zip_name = "robots_db_prod.zip"
 zip_url = f"https://xrhayesstoragetest.blob.core.windows.net/libraries/{zip_name}"
 extracted_path = "./extracted"
@@ -121,33 +120,6 @@ def is_json_files_equal(json_file_extracted: Dict, json_file_website: Dict) -> b
     return equality
 
 
-def get_json_from_js_var(js_file_path: str, var_name: str) -> dict:
-    """
-    Extracts a JSON object from a JavaScript file variable.
-
-    Args:
-        js_file_path (str): The path to the JavaScript file.
-        var_name (str): The name of the JavaScript variable containing the JSON object.
-
-    Returns:
-        dict: The extracted JSON object.
-
-    Raises:
-        FileNotFoundError: If the JavaScript file does not exist.
-        IndexError: If the JavaScript variable is not found in the file.
-        json.JSONDecodeError: If there is an error decoding the JSON object.
-    """
-    try:
-        with open(js_file_path, "r", encoding='utf-8') as f:
-            json_file_string = f.read().split("var " + var_name + " = ")[1].split(";")[0]
-
-        json_file = json.loads(json_file_string)
-        return json_file
-
-    except (FileNotFoundError, IndexError, json.JSONDecodeError) as e:
-        print(f"Error occurred while extracting JSON object from JavaScript file: {e}")
-
-
 def is_imgs_equal(image_folder_extracted: str, image_folder_website: str) -> bool:
     """
     Checks if the images in two folders are equal.
@@ -175,29 +147,9 @@ def is_imgs_equal(image_folder_extracted: str, image_folder_website: str) -> boo
     return imgs_equal
 
 
-def add_changes_made_to_file(changes_made: str, file_path: str) -> None:
+def update_ar_viewer_data() -> None:
     """
-    Adds the changes made to a file.
 
-    Args:
-        changes_made (str): The changes made.
-        file_path (str): The path to the file to write to.
-
-    Returns:
-        None
-    """
-    with open(file_path, "r") as f:
-        content = f.read()
-    with open(file_path, "w") as f:
-        f.write(changes_made + content)
-
-
-def main() -> None:
-    """
-    Main function to check the website's JSON file and images for updates.
-
-    Returns:
-        None
     """
     try:
         download_and_extract_zip(zip_url, extracted_path)
@@ -228,14 +180,16 @@ def main() -> None:
                 with open(file_extracted, "rb") as f:
                     with open(file_website, "wb") as f1:
                         f1.write(f.read())
-        if (not jsons_equals) or (len(img_to_update) > 0):
-            add_changes_made_to_file(changes_made, os.path.join("assets", "release_notes.txt"))
         os.remove(zip_name)
         shutil.rmtree(extracted_path)
+        if (not jsons_equals) or (len(img_to_update) > 0):
+            return changes_made
+        else:
+            return None
 
     except Exception as e:
         print(f"Error occurred during execution: {e}")
 
 
 if __name__ == "__main__":
-    main()
+    print(update_ar_viewer_data())

@@ -1,7 +1,7 @@
 name: Update Website Data
 on:
   schedule:
-    - cron: "0 17 * * *"
+    - cron: "0 6 * * 1"
   workflow_dispatch:
 
 jobs:
@@ -23,7 +23,7 @@ jobs:
       - name: Run script
         id: run-script
         run: |
-          output=$(python .github/scripts/check_database.py)
+          output=$(python .github/scripts/fetch_data.py)
           echo "Output [$output]"
           echo "no_error=$output" >> $GITHUB_OUTPUT   
       
