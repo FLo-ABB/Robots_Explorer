@@ -1,6 +1,7 @@
-import requests
-from json_compare_utils import get_dict_from_js_var
 import os
+
+import requests
+from utils import get_dict_from_js_var
 
 
 def fetch_robodk_data() -> str:
@@ -8,7 +9,7 @@ def fetch_robodk_data() -> str:
     Fetch the RoboDK data from the website.
 
     Returns:
-        str: The RoboDK data.
+        str: The RoboDK bundlerdklib.js file as a string.
     """
     url = "https://robodk.com/library-robots/bundlerdklib.js"
     try:
@@ -24,10 +25,10 @@ def get_robodk_data(js_file_from_robodk: str) -> str:
     Get the RoboDK data from the JS file.
 
     Args:
-        js_file_from_robodk (str): The JS file from RoboDK.
+        js_file_from_robodk (str): The JS file text from RoboDK.
 
     Returns:
-        str: The RoboDK data.
+        str: The interesting part of the JS file (the DATA_ALL part)
     """
     text = js_file_from_robodk
     text = text[text.find("DATA_ALL:"):]
@@ -46,15 +47,16 @@ def get_robodk_data(js_file_from_robodk: str) -> str:
     return None
 
 
-def update_changes_made(old_data: dict, new_data: dict) -> None:
+def update_changes_made_robodk(old_data: dict, new_data: dict) -> None:
     """
     Update the changes made.
 
     Args:
-        changes_made (str): The changes made.
+        old_data (dict): The old data.
+        new_data (dict): The new data.
 
     Returns:
-        None
+        str: The changes made. It could be additions, removals or updates.
     """
     changes_made = ""
     # check if if keys has been removed
@@ -75,14 +77,23 @@ def update_changes_made(old_data: dict, new_data: dict) -> None:
 
 
 def update_robodk_data() -> None:
+    """
+    Update the RoboDK data.
+    It's getting the data from the RoboDK website, and then it's comparing it with the data in the repo.
+    If there's any changes, it will update the data in the repo.
+    And then it will return the changes made to log it and be written in a releases_notes.txt file.
+
+    Returns:
+        str: The changes made. It could be additions, removals or updates.
+    """
     js_file_from_robodk = fetch_robodk_data()
-    new_robodk_data = get_robodk_data(js_file_from_robodk)
-    old_robodk_data = get_dict_from_js_var(os.path.join("assets", "scripts", "robodk_data.js"), "data")
+    new_robodk_data_text = get_robodk_data(js_file_from_robodk)
+    old_robodk_data_python_dict = get_dict_from_js_var(os.path.join("assets", "scripts", "robodk_data.js"), "data")
     with open(os.path.join("assets", "scripts", "robodk_data.js"), "w") as f:
-        f.write("var data = "+new_robodk_data+";")
-    new_robodk_data = get_dict_from_js_var(os.path.join("assets", "scripts", "robodk_data.js"), "data")
-    if new_robodk_data != old_robodk_data:
-        return update_changes_made(old_robodk_data, new_robodk_data)
+        f.write("var data = "+new_robodk_data_text+";")
+    new_robodk_data_python_dict = get_dict_from_js_var(os.path.join("assets", "scripts", "robodk_data.js"), "data")
+    if new_robodk_data_python_dict != old_robodk_data_python_dict:
+        return update_changes_made_robodk(old_robodk_data_python_dict, new_robodk_data_python_dict)
     else:
         return None
 
