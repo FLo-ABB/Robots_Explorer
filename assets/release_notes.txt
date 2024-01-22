@@ -1,3 +1,7 @@
+-2024-01-22: 
+	'Han-s-S30-1800' has been added (RoboDK)
+	'KUKA-KR-800-R2800-2' has been added (RoboDK)
+	'Fanuc-M-1000iA's AP has been updated, from '['Dispensing', 'Remote TCP', 'Welding']' to '['Additive Manufacturing', 'Assembly', 'Dispensing', 'Finishing', 'Material Handling', 'Palletizing', 'Remote TCP'] (RoboDK)'
 -2024-01-08: 
 	'ABB-IRB-4400-L30-M2000' has been added (RoboDK)
 -2023-12-24: 
