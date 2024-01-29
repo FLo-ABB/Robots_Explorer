@@ -1,3 +1,14 @@
+-2024-01-29: 
+	'ABB-IRB-7600-500-2-30' has been added (RoboDK)
+	'ABB-IRB-8700-550-4-20' has been added (RoboDK)
+	'Hyundai-HH4' has been added (RoboDK)
+	'Hyundai-HH4L' has been added (RoboDK)
+	'Hyundai-HH8' has been added (RoboDK)
+	'Hyundai-HH010L' has been added (RoboDK)
+	'Hyundai-HH012A' has been added (RoboDK)
+	'Hyundai-HH130SL' has been added (RoboDK)
+	'KUKA-KP2-SV2600-HW' has been added (RoboDK)
+	'ABB-IRB-8700-800-3-50's E has been updated, from '0.1' to '0.05 (RoboDK)'
 -2024-01-22: 
 	'Han-s-S30-1800' has been added (RoboDK)
 	'KUKA-KR-800-R2800-2' has been added (RoboDK)
