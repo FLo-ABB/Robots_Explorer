@@ -1,3 +1,6 @@
+-2024-02-19: 
+	'KUKA-KR-500-R2800-2' has been added (RoboDK)
+	'Motoman-EH80' has been added (RoboDK)
 -2024-02-05: 
 	Added IRB5500-23_thumb.jpg to img folder (AR Viewer App Database)
 	Added IRB1520ID_thumb.jpg to img folder (AR Viewer App Database)
