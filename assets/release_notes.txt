@@ -1,3 +1,5 @@
+-2024-03-11: 
+	'KUKA-KR-560-R3100-2' has been added (RoboDK)
 -2024-02-26: 
 	'autonox-Robotics-articc-m6-1704-30kg-AT-00026-SE01' has been added (RoboDK)
 	'Comau-N-220-2-7' has been added (RoboDK)
