@@ -1,3 +1,7 @@
+-2024-03-18: 
+	'uFactory-850' has been added (RoboDK)
+	'uFactory-xArm7' has been added (RoboDK)
+	'uFactory-Lite6's W has been updated, from '7.2' to '8 (RoboDK)'
 -2024-03-11: 
 	'KUKA-KR-560-R3100-2' has been added (RoboDK)
 -2024-02-26: 
