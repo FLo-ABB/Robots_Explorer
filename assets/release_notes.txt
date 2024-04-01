@@ -1,3 +1,23 @@
+-2024-04-01: 
+	'ABB-IRB-1010-1-5-0-37' has been added (RoboDK)
+	'ABB-IRB-5710-110-2-3' has been added (RoboDK)
+	'Agile-Robots-Diana-7' has been added (RoboDK)
+	'Flexiv-Rizon-4' has been added (RoboDK)
+	'Productive-Robotics-OB7-Max-8' has been added (RoboDK)
+	'Shibaura-Machine-THE400' has been added (RoboDK)
+	'Shibaura-Machine-THE400T' has been added (RoboDK)
+	'Shibaura-Machine-THE600' has been added (RoboDK)
+	'Shibaura-Machine-THE600T' has been added (RoboDK)
+	'Shibaura-Machine-THE800' has been added (RoboDK)
+	'Shibaura-Machine-THE1000' has been added (RoboDK)
+	'Yaskawa-HP3L' has been added (RoboDK)
+	'ABB-IRB-8700-800-3-50's AP has been updated, from '['Additive Manufacturing', 'Assembly', 'Dispensing', 'Finishing', 'Material Handling', 'Palletizing', 'Remote TCP']' to '['Additive Manufacturing', 'Assembly', 'Cutting', 'Dispensing', 'Drilling', 'Engraving', 'Finishing', 'Machining', 'Material Handling', 'Palletizing', 'Remote TCP'] (RoboDK)'
+	'Fanuc-M-710iC-70's R has been updated, from '1360' to '2050 (RoboDK)'
+	'Fanuc-M-710iC-70's W has been updated, from '545' to '560 (RoboDK)'
+	'Fanuc-M-710iC-70's E has been updated, from '0.07' to '0.04 (RoboDK)'
+	'Fanuc-M-710iC-70's AP has been updated, from '['Additive Manufacturing', 'Dispensing', 'Remote TCP']' to '['Additive Manufacturing', 'Assembly', 'Cutting', 'Dispensing', 'Drilling', 'Engraving', 'Finishing', 'Machining', 'Material Handling', 'Palletizing', 'Remote TCP'] (RoboDK)'
+	'KUKA-KR-210-R3100-ultra's P has been updated, from '240' to '210 (RoboDK)'
+	'KUKA-KR-210-R3100-ultra's W has been updated, from '1145' to '1154 (RoboDK)'
 -2024-03-18: 
 	'uFactory-850' has been added (RoboDK)
 	'uFactory-xArm7' has been added (RoboDK)
