@@ -1,3 +1,7 @@
+-2024-04-15: 
+	'Fanuc-Paint-Mate-200iA-5L' has been added (RoboDK)
+	'KUKA-KR-360-R2830' has been added (RoboDK)
+	'ABB-IRBT-7004-Standard-4m' has been added (RoboDK)
 -2024-04-01: 
 	'ABB-IRB-1010-1-5-0-37' has been added (RoboDK)
 	'ABB-IRB-5710-110-2-3' has been added (RoboDK)
