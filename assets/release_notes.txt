@@ -1,3 +1,9 @@
+-2024-04-22: 
+	'Hyundai-HH150L' has been added (RoboDK)
+	'Hyundai-HH300' has been added (RoboDK)
+	'Hyundai-HS200L' has been added (RoboDK)
+	'Hyundai-HS220S' has been added (RoboDK)
+	'KUKA-KR-140-R3200-2-PA' has been added (RoboDK)
 -2024-04-15: 
 	'Fanuc-Paint-Mate-200iA-5L' has been added (RoboDK)
 	'KUKA-KR-360-R2830' has been added (RoboDK)
