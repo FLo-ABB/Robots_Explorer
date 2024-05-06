@@ -1,3 +1,10 @@
+-2024-05-06: 
+	'BORUNTE-BRTIRUS-2110A' has been added (RoboDK)
+	'Fanuc-M-410iC-185' has been added (RoboDK)
+	'Hyundai-HS260' has been added (RoboDK)
+	'Hyundai-YS080' has been added (RoboDK)
+	'Hyundai-YS140D' has been added (RoboDK)
+	'KUKA-KR-200-comp' has been added (RoboDK)
 -2024-04-22: 
 	'Hyundai-HH150L' has been added (RoboDK)
 	'Hyundai-HH300' has been added (RoboDK)
