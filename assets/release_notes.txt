@@ -1,3 +1,9 @@
+-2024-05-20: 
+	'Comau-Racer-5-0-63' has been added (RoboDK)
+	'Estun-ER80B-2565-BD' has been added (RoboDK)
+	'JAKA-Zu20' has been added (RoboDK)
+	'Kawasaki-duAro1-Dual-Arm's N has been updated, from 'Kawasaki duAro1 Dual Arm' to 'Kawasaki duAro1 Dual-Arm (RoboDK)'
+	'Kawasaki-duAro1-Dual-Arm's M has been updated, from 'duAro1 Dual Arm' to 'duAro1 Dual-Arm (RoboDK)'
 -2024-05-13: 
 	IRB 7710 added (AR Viewer App Database)
 	IRB 7720 added (AR Viewer App Database)
