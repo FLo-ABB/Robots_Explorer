@@ -1,3 +1,9 @@
+-2024-06-17: 
+	'KUKA-KR-180-R3200-2-PA' has been added (RoboDK)
+	'Nachi-SRA210' has been added (RoboDK)
+	'Neuromeka-INDY7-RP2' has been added (RoboDK)
+	'Motoman-GA50' has been added (RoboDK)
+	'Yaskawa-GP180-120' has been added (RoboDK)
 -2024-05-20: 
 	'Comau-Racer-5-0-63' has been added (RoboDK)
 	'Estun-ER80B-2565-BD' has been added (RoboDK)
