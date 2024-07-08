@@ -1,3 +1,15 @@
+-2024-07-08: 
+	IRB 1090 added (AR Viewer App Database)
+	IRB 910SC deleted (AR Viewer App Database)
+	IRB 6640 deleted (AR Viewer App Database)
+	IRB 1410 deleted (AR Viewer App Database)
+	IRB 120 deleted (AR Viewer App Database)
+	In IRB 1200's family, the variant 'IRB 1200-7/0.9' has been added (AR Viewer App Database)
+	Updated IRB6740_thumb.jpg in img folder (AR Viewer App Database)
+	Added IRB1090_thumb.jpg to img folder (AR Viewer App Database)
+	Updated IRB6730_thumb.jpg in img folder (AR Viewer App Database)
+	Updated IRB6710_thumb.jpg in img folder (AR Viewer App Database)
+	Updated IRB6720_thumb.jpg in img folder (AR Viewer App Database)
 -2024-07-01: 
 	'AUCTECH-X3-618' has been added (RoboDK)
 	'AUCTECH-X5-910' has been added (RoboDK)
