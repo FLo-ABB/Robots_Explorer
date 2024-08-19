@@ -1,3 +1,13 @@
+-2024-08-19: 
+	'ABB-CRB-15000-10' has been added (RoboDK)
+	'ABB-CRB-15000-GoFa-12' has been added (RoboDK)
+	'ABB-IRB-1600-10-1-45' has been added (RoboDK)
+	'Comau-S-13' has been added (RoboDK)
+	'Comau-S-18' has been added (RoboDK)
+	'KUKA-KR-150-R3100-2' has been added (RoboDK)
+	'Mitsubishi-RV-12CRL-D' has been added (RoboDK)
+	'Neuromeka-INDY7-V2' has been added (RoboDK)
+	'Yaskawa-HC20SDTP' has been added (RoboDK)
 -2024-07-29: 
 	'HCR-3' has been removed (RoboDK)
 	'HCR-5' has been removed (RoboDK)
