@@ -1,3 +1,5 @@
+-2024-09-16: 
+	'ABB-CRB-15000-10-152' has been added (RoboDK)
 -2024-09-09: 
 	'Hanwha-HCR-3' has been removed (RoboDK)
 	'Hanwha-HCR-5' has been removed (RoboDK)
