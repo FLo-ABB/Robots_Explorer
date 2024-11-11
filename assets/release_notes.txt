@@ -1,3 +1,10 @@
+-2024-11-11: 
+	'JAKA-A5's R has been updated, from '-1' to '954 (RoboDK)'
+	'JAKA-A5's P has been updated, from '-1' to '5 (RoboDK)'
+	'JAKA-A5's W has been updated, from 'None' to '23 (RoboDK)'
+	'JAKA-A5's E has been updated, from '-1' to '0.02 (RoboDK)'
+	'ABB-IRBT-2005-Standard-2-8m's N has been updated, from 'ABB-IRBT-2005-Standard-2.8m' to 'ABB IRBT 2005 Standard 2.8m (RoboDK)'
+	'ABB-IRBT-2005-Standard-2-8m's M has been updated, from '-IRBT-2005-Standard-2.8m' to 'IRBT 2005 Standard 2.8m (RoboDK)'
 -2024-10-28: 
 	'YuMi-IRB-14050' has been added (RoboDK)
 	'AUCTECH-AN-12-16-0-95-3' has been added (RoboDK)
