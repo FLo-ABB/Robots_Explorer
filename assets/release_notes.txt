@@ -1,3 +1,5 @@
+-2024-12-09: 
+	'Kawasaki-BA013L' has been added (RoboDK)
 -2024-11-11: 
 	'JAKA-A5's R has been updated, from '-1' to '954 (RoboDK)'
 	'JAKA-A5's P has been updated, from '-1' to '5 (RoboDK)'
