@@ -1,3 +1,23 @@
+-2025-01-13: 
+	'FAIR-Innovation-F16' has been removed (RoboDK)
+	'FAIR-Innovation-FR3' has been removed (RoboDK)
+	'FAIR-Innovation-FR5' has been removed (RoboDK)
+	'FAIR-Innovation-FR10' has been removed (RoboDK)
+	'FAIR-Innovation-FR20' has been removed (RoboDK)
+	'Fanuc-CRX-30iA' has been added (RoboDK)
+	'Fanuc-M-710iD-50M' has been added (RoboDK)
+	'Han-s-E12' has been added (RoboDK)
+	'Brooks-PreciseFlex-c3x-1160's R has been updated, from '587.8' to '587 (RoboDK)'
+	'FAIRINO-FR3's B has been updated, from 'FAIR Innovation' to 'FAIRINO (RoboDK)'
+	'FAIRINO-FR3's M has been updated, from 'INO FR3' to 'FR3 (RoboDK)'
+	'FAIRINO-FR5's B has been updated, from 'FAIR Innovation' to 'FAIRINO (RoboDK)'
+	'FAIRINO-FR5's M has been updated, from 'INO FR5' to 'FR5 (RoboDK)'
+	'FAIRINO-FR10's B has been updated, from 'FAIR Innovation' to 'FAIRINO (RoboDK)'
+	'FAIRINO-FR10's M has been updated, from 'INO FR10' to 'FR10 (RoboDK)'
+	'FAIRINO-FR16's B has been updated, from 'FAIR Innovation' to 'FAIRINO (RoboDK)'
+	'FAIRINO-FR16's M has been updated, from 'INO FR16' to 'FR16 (RoboDK)'
+	'FAIRINO-FR20's B has been updated, from 'FAIR Innovation' to 'FAIRINO (RoboDK)'
+	'FAIRINO-FR20's M has been updated, from 'INO FR20' to 'FR20 (RoboDK)'
 -2024-12-23: 
 	'ABB-IRB-5510' has been added (RoboDK)
 	'INOVANCE-IR-R35-170S10' has been added (RoboDK)
