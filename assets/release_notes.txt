@@ -1,3 +1,6 @@
+-2025-01-20: 
+	'FAIRINO-FR20's W has been updated, from '75' to '85 (RoboDK)'
+	'Motoman-GP20's W has been updated, from 'None' to '250 (RoboDK)'
 -2025-01-13: 
 	'FAIR-Innovation-F16' has been removed (RoboDK)
 	'FAIR-Innovation-FR3' has been removed (RoboDK)
