@@ -1,3 +1,7 @@
+-2025-01-27: 
+	'NEWKer-NEW2006B' has been added (RoboDK)
+	'Panasonic-TM-1800' has been added (RoboDK)
+	'Rokae-CR12-C' has been added (RoboDK)
 -2025-01-20: 
 	'FAIRINO-FR20's W has been updated, from '75' to '85 (RoboDK)'
 	'Motoman-GP20's W has been updated, from 'None' to '250 (RoboDK)'
