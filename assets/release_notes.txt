@@ -1,3 +1,7 @@
+-2025-02-17: 
+	'Comau-Smart5-NJ-130-3-7' has been added (RoboDK)
+	'Kawasaki-RS025N' has been added (RoboDK)
+	'KUKA-KR-1000-L750-titan's R has been updated, from '3202' to '3601 (RoboDK)'
 -2025-01-27: 
 	'NEWKer-NEW2006B' has been added (RoboDK)
 	'Panasonic-TM-1800' has been added (RoboDK)
