@@ -1,3 +1,7 @@
+-2025-02-24: 
+	'Comau-Smart5-NJ-130-3-7' has been removed (RoboDK)
+	'Comau-Smart5-NJ-130-3-7-SH' has been added (RoboDK)
+	'Kawada-NEXTAGE-Fillie-Dual-Arm' has been added (RoboDK)
 -2025-02-17: 
 	'Comau-Smart5-NJ-130-3-7' has been added (RoboDK)
 	'Kawasaki-RS025N' has been added (RoboDK)
