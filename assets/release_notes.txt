@@ -1,3 +1,14 @@
+-2025-03-24: 
+	'Brooks-PreciseFlex-100XZS-685-Gripper' has been removed (RoboDK)
+	'Brooks-PreciseFlex-100XZS-1270-Gripper' has been removed (RoboDK)
+	'CLOOS-QIROX-QRC-350' has been added (RoboDK)
+	'CLOOS-QIROX-QRC-350-E' has been added (RoboDK)
+	'FAIRINO-FR3MT' has been added (RoboDK)
+	'FAIRINO-FR30' has been added (RoboDK)
+	'KUKA-KR-180-R3500-2-K' has been added (RoboDK)
+	'KUKA-KR12-R850-Z340-CR' has been added (RoboDK)
+	'Brooks-PreciseFlex-100XZTS-685' has been added (RoboDK)
+	'Brooks-PreciseFlex-100XZTS-1270' has been added (RoboDK)
 -2025-03-03: 
 	'Nachi-SRA210H' has been added (RoboDK)
 -2025-02-24: 
