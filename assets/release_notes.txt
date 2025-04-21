@@ -1,3 +1,10 @@
+-2025-04-21: 
+	'TM6S' has been added (RoboDK)
+	'TM6S-X' has been added (RoboDK)
+	'TM20S' has been added (RoboDK)
+	'TM20S-X' has been added (RoboDK)
+	'TM30SC' has been added (RoboDK)
+	'TM30SC-X' has been added (RoboDK)
 -2025-04-14: 
 	'Creaform-C-Track-+-Field-of-view' has been removed (RoboDK)
 	'AUBO-ES3' has been added (RoboDK)
