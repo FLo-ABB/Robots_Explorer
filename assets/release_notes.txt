@@ -1,3 +1,8 @@
+-2025-04-28: 
+	'Denso-Cobotta-PRO-900' has been added (RoboDK)
+	'Denso-Cobotta-PRO-1300' has been added (RoboDK)
+	'Denso-HS045A1' has been added (RoboDK)
+	'KUKA-KR-6-R2010-2-arc-HW-E' has been added (RoboDK)
 -2025-04-21: 
 	'TM6S' has been added (RoboDK)
 	'TM6S-X' has been added (RoboDK)
