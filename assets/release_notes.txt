@@ -1,3 +1,13 @@
+-2025-05-05: 
+	'BORUNTE-BRTIRUS-0707A-v21' has been added (RoboDK)
+	'JAKA-MAX40' has been added (RoboDK)
+	'JAKA-Zu30' has been added (RoboDK)
+	'Neura-MAiRA-Pro-S' has been added (RoboDK)
+	'RRRobotica-Atom-50' has been added (RoboDK)
+	'Motoman-MPX-1950' has been added (RoboDK)
+	'OnRobot-Lift100-Vertical-Axis' has been added (RoboDK)
+	'Fanuc-R-2000iA-210F's R has been updated, from '2650' to '2655 (RoboDK)'
+	'Fanuc-R-2000iA-210F's W has been updated, from '1270' to '1240 (RoboDK)'
 -2025-04-28: 
 	'Denso-Cobotta-PRO-900' has been added (RoboDK)
 	'Denso-Cobotta-PRO-1300' has been added (RoboDK)
