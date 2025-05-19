@@ -1,3 +1,5 @@
+-2025-05-19: 
+	'Denso-Cobotta-PRO-1300's AP has been updated, from '['Additive Manufacturing', 'Assembly', 'Dispensing', 'Material Handling', 'Remote TCP', 'Welding']' to '['Additive Manufacturing', 'Assembly', 'Collaborative', 'Dispensing', 'Material Handling', 'Remote TCP', 'Welding'] (RoboDK)'
 -2025-05-05: 
 	'BORUNTE-BRTIRUS-0707A-v21' has been added (RoboDK)
 	'JAKA-MAX40' has been added (RoboDK)
