@@ -1,3 +1,88 @@
+-2025-06-23: 
+	'Delta-Electronics-DC06' has been added (RoboDK)
+	'Delta-Electronics-DC08' has been added (RoboDK)
+	'Delta-Electronics-DC10' has been added (RoboDK)
+	'Delta-Electronics-DC16' has been added (RoboDK)
+	'Delta-Electronics-DC20' has been added (RoboDK)
+	'Delta-Electronics-DC30' has been added (RoboDK)
+	'Delta-Electronics-NEO15' has been added (RoboDK)
+	'Delta-Electronics-NEO20' has been added (RoboDK)
+	'Delta-Electronics-NEO30' has been added (RoboDK)
+	'FerRobotics-ATK-201-L-015-Taping-Tool' has been added (RoboDK)
+	'FerRobotics-ATK-201-L-065-Taping-Tool' has been added (RoboDK)
+	'FerRobotics-ATK-201-R-015-Taping-Tool' has been added (RoboDK)
+	'FerRobotics-ATK-201-R-065-Taping-Tool' has been added (RoboDK)
+	'ABB-YuMi-IRB-14000-Dual-Arm's AP has been updated, from '['Assembly', 'Dispensing', 'Material Handling', 'Remote TCP']' to '['Assembly', 'Collaborative', 'Dispensing', 'Material Handling', 'Remote TCP'] (RoboDK)'
+	'ABB-YuMi-IRB-14050's AP has been updated, from '['Assembly', 'Dispensing', 'Material Handling', 'Remote TCP']' to '['Assembly', 'Collaborative', 'Dispensing', 'Material Handling', 'Remote TCP'] (RoboDK)'
+	'Agile-Robots-Diana-7's AP has been updated, from '['Assembly', 'Dispensing', 'Material Handling', 'Remote TCP']' to '['Assembly', 'Collaborative', 'Dispensing', 'Material Handling', 'Remote TCP'] (RoboDK)'
+	'Doosan-Robotics-A0509-White's AP has been updated, from '['Assembly', 'Dispensing', 'Material Handling', 'Remote TCP']' to '['Assembly', 'Collaborative', 'Dispensing', 'Material Handling', 'Remote TCP'] (RoboDK)'
+	'Doosan-Robotics-A0509's AP has been updated, from '['Assembly', 'Dispensing', 'Material Handling', 'Remote TCP']' to '['Assembly', 'Collaborative', 'Dispensing', 'Material Handling', 'Remote TCP'] (RoboDK)'
+	'Doosan-Robotics-A0912-White's AP has been updated, from '['Additive Manufacturing', 'Assembly', 'Dispensing', 'Material Handling', 'Remote TCP', 'Welding']' to '['Additive Manufacturing', 'Assembly', 'Collaborative', 'Dispensing', 'Material Handling', 'Remote TCP', 'Welding'] (RoboDK)'
+	'Doosan-Robotics-A0912's AP has been updated, from '['Additive Manufacturing', 'Assembly', 'Dispensing', 'Material Handling', 'Remote TCP', 'Welding']' to '['Additive Manufacturing', 'Assembly', 'Collaborative', 'Dispensing', 'Material Handling', 'Remote TCP', 'Welding'] (RoboDK)'
+	'Doosan-Robotics-E0509's AP has been updated, from '['Assembly', 'Dispensing', 'Material Handling', 'Remote TCP']' to '['Assembly', 'Collaborative', 'Dispensing', 'Material Handling', 'Remote TCP'] (RoboDK)'
+	'Doosan-Robotics-H2017-White's AP has been updated, from '['Additive Manufacturing', 'Assembly', 'Dispensing', 'Material Handling', 'Remote TCP', 'Welding']' to '['Additive Manufacturing', 'Assembly', 'Collaborative', 'Dispensing', 'Material Handling', 'Remote TCP', 'Welding'] (RoboDK)'
+	'Doosan-Robotics-H2017's AP has been updated, from '['Additive Manufacturing', 'Assembly', 'Dispensing', 'Material Handling', 'Remote TCP', 'Welding']' to '['Additive Manufacturing', 'Assembly', 'Collaborative', 'Dispensing', 'Material Handling', 'Remote TCP', 'Welding'] (RoboDK)'
+	'Doosan-Robotics-H2515-White's AP has been updated, from '['Additive Manufacturing', 'Assembly', 'Dispensing', 'Material Handling', 'Remote TCP']' to '['Additive Manufacturing', 'Assembly', 'Collaborative', 'Dispensing', 'Material Handling', 'Remote TCP'] (RoboDK)'
+	'Doosan-Robotics-H2515's AP has been updated, from '['Additive Manufacturing', 'Assembly', 'Dispensing', 'Material Handling', 'Remote TCP']' to '['Additive Manufacturing', 'Assembly', 'Collaborative', 'Dispensing', 'Material Handling', 'Remote TCP'] (RoboDK)'
+	'Doosan-Robotics-M0609-White's AP has been updated, from '['Assembly', 'Dispensing', 'Material Handling', 'Remote TCP']' to '['Assembly', 'Collaborative', 'Dispensing', 'Material Handling', 'Remote TCP'] (RoboDK)'
+	'Doosan-Robotics-M0609's AP has been updated, from '['Assembly', 'Dispensing', 'Material Handling', 'Remote TCP']' to '['Assembly', 'Collaborative', 'Dispensing', 'Material Handling', 'Remote TCP'] (RoboDK)'
+	'Doosan-Robotics-M0617-White's AP has been updated, from '['Additive Manufacturing', 'Assembly', 'Dispensing', 'Material Handling', 'Remote TCP', 'Welding']' to '['Additive Manufacturing', 'Assembly', 'Collaborative', 'Dispensing', 'Material Handling', 'Remote TCP', 'Welding'] (RoboDK)'
+	'Doosan-Robotics-M0617's AP has been updated, from '['Additive Manufacturing', 'Assembly', 'Dispensing', 'Material Handling', 'Remote TCP', 'Welding']' to '['Additive Manufacturing', 'Assembly', 'Collaborative', 'Dispensing', 'Material Handling', 'Remote TCP', 'Welding'] (RoboDK)'
+	'Doosan-Robotics-M1013-White's AP has been updated, from '['Additive Manufacturing', 'Assembly', 'Dispensing', 'Material Handling', 'Remote TCP', 'Welding']' to '['Additive Manufacturing', 'Assembly', 'Collaborative', 'Dispensing', 'Material Handling', 'Remote TCP', 'Welding'] (RoboDK)'
+	'Doosan-Robotics-M1013's AP has been updated, from '['Additive Manufacturing', 'Assembly', 'Dispensing', 'Material Handling', 'Remote TCP', 'Welding']' to '['Additive Manufacturing', 'Assembly', 'Collaborative', 'Dispensing', 'Material Handling', 'Remote TCP', 'Welding'] (RoboDK)'
+	'Doosan-Robotics-M1509-White's AP has been updated, from '['Assembly', 'Dispensing', 'Material Handling', 'Remote TCP']' to '['Assembly', 'Collaborative', 'Dispensing', 'Material Handling', 'Remote TCP'] (RoboDK)'
+	'Doosan-Robotics-M1509's AP has been updated, from '['Assembly', 'Dispensing', 'Material Handling', 'Remote TCP']' to '['Assembly', 'Collaborative', 'Dispensing', 'Material Handling', 'Remote TCP'] (RoboDK)'
+	'Fanuc-CR-7iA-L's AP has been updated, from '['Assembly', 'Dispensing', 'Material Handling', 'Remote TCP']' to '['Assembly', 'Collaborative', 'Dispensing', 'Material Handling', 'Remote TCP'] (RoboDK)'
+	'Fanuc-CR-15iA's AP has been updated, from '['Additive Manufacturing', 'Assembly', 'Dispensing', 'Material Handling', 'Remote TCP', 'Welding']' to '['Additive Manufacturing', 'Assembly', 'Collaborative', 'Dispensing', 'Material Handling', 'Remote TCP', 'Welding'] (RoboDK)'
+	'Fanuc-CR-35iA's AP has been updated, from '['Additive Manufacturing', 'Assembly', 'Dispensing', 'Material Handling', 'Remote TCP']' to '['Additive Manufacturing', 'Assembly', 'Collaborative', 'Dispensing', 'Material Handling', 'Remote TCP'] (RoboDK)'
+	'Fanuc-CRX-30iA's AP has been updated, from '['Additive Manufacturing', 'Assembly', 'Dispensing', 'Material Handling', 'Remote TCP']' to '['Additive Manufacturing', 'Assembly', 'Collaborative', 'Dispensing', 'Material Handling', 'Remote TCP'] (RoboDK)'
+	'Flexiv-Rizon-4's AP has been updated, from '['Assembly', 'Dispensing', 'Material Handling', 'Remote TCP']' to '['Assembly', 'Collaborative', 'Dispensing', 'Material Handling', 'Remote TCP'] (RoboDK)'
+	'Franka-Emika-Panda's AP has been updated, from '['Assembly', 'Dispensing', 'Material Handling', 'Remote TCP']' to '['Assembly', 'Collaborative', 'Dispensing', 'Material Handling', 'Remote TCP'] (RoboDK)'
+	'Hanwha-HCR-12A's AP has been updated, from '['Additive Manufacturing', 'Assembly', 'Dispensing', 'Material Handling', 'Remote TCP', 'Welding']' to '['Additive Manufacturing', 'Assembly', 'Collaborative', 'Dispensing', 'Material Handling', 'Remote TCP', 'Welding'] (RoboDK)'
+	'Huayan-E03's AP has been updated, from '['Assembly', 'Dispensing', 'Material Handling', 'Remote TCP']' to '['Assembly', 'Collaborative', 'Dispensing', 'Material Handling', 'Remote TCP'] (RoboDK)'
+	'Huayan-E05's AP has been updated, from '['Assembly', 'Dispensing', 'Material Handling', 'Remote TCP']' to '['Assembly', 'Collaborative', 'Dispensing', 'Material Handling', 'Remote TCP'] (RoboDK)'
+	'Huayan-E05-L's AP has been updated, from '['Assembly', 'Dispensing', 'Material Handling', 'Remote TCP']' to '['Assembly', 'Collaborative', 'Dispensing', 'Material Handling', 'Remote TCP'] (RoboDK)'
+	'Huayan-E10's AP has been updated, from '['Additive Manufacturing', 'Assembly', 'Dispensing', 'Material Handling', 'Remote TCP', 'Welding']' to '['Additive Manufacturing', 'Assembly', 'Collaborative', 'Dispensing', 'Material Handling', 'Remote TCP', 'Welding'] (RoboDK)'
+	'Huayan-E10-L's AP has been updated, from '['Additive Manufacturing', 'Assembly', 'Dispensing', 'Material Handling', 'Remote TCP', 'Welding']' to '['Additive Manufacturing', 'Assembly', 'Collaborative', 'Dispensing', 'Material Handling', 'Remote TCP', 'Welding'] (RoboDK)'
+	'Huayan-E12's AP has been updated, from '['Additive Manufacturing', 'Assembly', 'Dispensing', 'Material Handling', 'Remote TCP', 'Welding']' to '['Additive Manufacturing', 'Assembly', 'Collaborative', 'Dispensing', 'Material Handling', 'Remote TCP', 'Welding'] (RoboDK)'
+	'Huayan-E15's AP has been updated, from '['Additive Manufacturing', 'Assembly', 'Dispensing', 'Material Handling', 'Remote TCP', 'Welding']' to '['Additive Manufacturing', 'Assembly', 'Collaborative', 'Dispensing', 'Material Handling', 'Remote TCP', 'Welding'] (RoboDK)'
+	'igus-ReBeL-6DOF's AP has been updated, from '['Assembly', 'Inspection', 'Material Handling', 'Remote TCP']' to '['Assembly', 'Collaborative', 'Inspection', 'Material Handling', 'Remote TCP'] (RoboDK)'
+	'JAKA-MAX40's AP has been updated, from '['Additive Manufacturing', 'Assembly', 'Dispensing', 'Material Handling', 'Remote TCP']' to '['Additive Manufacturing', 'Assembly', 'Collaborative', 'Dispensing', 'Material Handling', 'Remote TCP'] (RoboDK)'
+	'JAKA-MiniCobo's AP has been updated, from '['Assembly', 'Dispensing', 'Material Handling', 'Remote TCP']' to '['Assembly', 'Collaborative', 'Dispensing', 'Material Handling', 'Remote TCP'] (RoboDK)'
+	'Kassow-Robots-KR0810's AP has been updated, from '['Assembly', 'Dispensing', 'Material Handling', 'Remote TCP']' to '['Assembly', 'Collaborative', 'Dispensing', 'Material Handling', 'Remote TCP'] (RoboDK)'
+	'Kassow-Robots-KR1018's AP has been updated, from '['Additive Manufacturing', 'Assembly', 'Dispensing', 'Material Handling', 'Remote TCP', 'Welding']' to '['Additive Manufacturing', 'Assembly', 'Collaborative', 'Dispensing', 'Material Handling', 'Remote TCP', 'Welding'] (RoboDK)'
+	'Kassow-Robots-KR1205's AP has been updated, from '['Additive Manufacturing', 'Assembly', 'Dispensing', 'Material Handling', 'Remote TCP']' to '['Additive Manufacturing', 'Assembly', 'Collaborative', 'Dispensing', 'Material Handling', 'Remote TCP'] (RoboDK)'
+	'Kassow-Robots-KR1410's AP has been updated, from '['Additive Manufacturing', 'Assembly', 'Dispensing', 'Material Handling', 'Remote TCP', 'Welding']' to '['Additive Manufacturing', 'Assembly', 'Collaborative', 'Dispensing', 'Material Handling', 'Remote TCP', 'Welding'] (RoboDK)'
+	'Kassow-Robots-KR1805's AP has been updated, from '['Additive Manufacturing', 'Assembly', 'Dispensing', 'Material Handling', 'Remote TCP']' to '['Additive Manufacturing', 'Assembly', 'Collaborative', 'Dispensing', 'Material Handling', 'Remote TCP'] (RoboDK)'
+	'Kinova-Gen3-6DOF-NoV's AP has been updated, from '['Assembly', 'Dispensing', 'Material Handling', 'Remote TCP']' to '['Assembly', 'Collaborative', 'Dispensing', 'Material Handling', 'Remote TCP'] (RoboDK)'
+	'Kinova-Gen3-6DOF's AP has been updated, from '['Assembly', 'Dispensing', 'Material Handling', 'Remote TCP']' to '['Assembly', 'Collaborative', 'Dispensing', 'Material Handling', 'Remote TCP'] (RoboDK)'
+	'Kinova-Gen3's AP has been updated, from '['Assembly', 'Dispensing', 'Material Handling', 'Remote TCP']' to '['Assembly', 'Collaborative', 'Dispensing', 'Material Handling', 'Remote TCP'] (RoboDK)'
+	'KUKA-iisy-3-R760's AP has been updated, from '['Assembly', 'Dispensing', 'Material Handling', 'Remote TCP']' to '['Assembly', 'Collaborative', 'Dispensing', 'Material Handling', 'Remote TCP'] (RoboDK)'
+	'KUKA-iisy-11-R1300's AP has been updated, from '['Additive Manufacturing', 'Assembly', 'Dispensing', 'Material Handling', 'Remote TCP', 'Welding']' to '['Additive Manufacturing', 'Assembly', 'Collaborative', 'Dispensing', 'Material Handling', 'Remote TCP', 'Welding'] (RoboDK)'
+	'KUKA-iisy-15-R930's AP has been updated, from '['Assembly', 'Dispensing', 'Material Handling', 'Remote TCP']' to '['Assembly', 'Collaborative', 'Dispensing', 'Material Handling', 'Remote TCP'] (RoboDK)'
+	'KUKA-LBR-iiwa-7-R800-MF's AP has been updated, from '['Assembly', 'Dispensing', 'Material Handling', 'Remote TCP']' to '['Assembly', 'Collaborative', 'Dispensing', 'Material Handling', 'Remote TCP'] (RoboDK)'
+	'KUKA-LBR-iiwa-7-R800's AP has been updated, from '['Assembly', 'Dispensing', 'Material Handling', 'Remote TCP']' to '['Assembly', 'Collaborative', 'Dispensing', 'Material Handling', 'Remote TCP'] (RoboDK)'
+	'KUKA-LBR-iiwa-14-R820's AP has been updated, from '['Assembly', 'Dispensing', 'Material Handling', 'Remote TCP']' to '['Assembly', 'Collaborative', 'Dispensing', 'Material Handling', 'Remote TCP'] (RoboDK)'
+	'Neura-LARA-3's AP has been updated, from '['Assembly', 'Dispensing', 'Material Handling', 'Remote TCP']' to '['Assembly', 'Collaborative', 'Dispensing', 'Material Handling', 'Remote TCP'] (RoboDK)'
+	'Neura-LARA-5's AP has been updated, from '['Assembly', 'Dispensing', 'Material Handling', 'Remote TCP']' to '['Assembly', 'Collaborative', 'Dispensing', 'Material Handling', 'Remote TCP'] (RoboDK)'
+	'Neura-LARA-8's AP has been updated, from '['Additive Manufacturing', 'Assembly', 'Dispensing', 'Material Handling', 'Remote TCP', 'Welding']' to '['Additive Manufacturing', 'Assembly', 'Collaborative', 'Dispensing', 'Material Handling', 'Remote TCP', 'Welding'] (RoboDK)'
+	'Neura-LARA-10's AP has been updated, from '['Additive Manufacturing', 'Assembly', 'Dispensing', 'Material Handling', 'Remote TCP', 'Welding']' to '['Additive Manufacturing', 'Assembly', 'Collaborative', 'Dispensing', 'Material Handling', 'Remote TCP', 'Welding'] (RoboDK)'
+	'Neura-LARA-15's AP has been updated, from '['Additive Manufacturing', 'Assembly', 'Dispensing', 'Material Handling', 'Remote TCP', 'Welding']' to '['Additive Manufacturing', 'Assembly', 'Collaborative', 'Dispensing', 'Material Handling', 'Remote TCP', 'Welding'] (RoboDK)'
+	'Neura-LARA-20's AP has been updated, from '['Additive Manufacturing', 'Assembly', 'Dispensing', 'Material Handling', 'Remote TCP', 'Welding']' to '['Additive Manufacturing', 'Assembly', 'Collaborative', 'Dispensing', 'Material Handling', 'Remote TCP', 'Welding'] (RoboDK)'
+	'Neura-LARA-25's AP has been updated, from '['Additive Manufacturing', 'Assembly', 'Dispensing', 'Material Handling', 'Remote TCP']' to '['Additive Manufacturing', 'Assembly', 'Collaborative', 'Dispensing', 'Material Handling', 'Remote TCP'] (RoboDK)'
+	'Neura-LARA-30's AP has been updated, from '['Additive Manufacturing', 'Assembly', 'Dispensing', 'Material Handling', 'Remote TCP']' to '['Additive Manufacturing', 'Assembly', 'Collaborative', 'Dispensing', 'Material Handling', 'Remote TCP'] (RoboDK)'
+	'Neura-LARA-30L's AP has been updated, from '['Additive Manufacturing', 'Assembly', 'Dispensing', 'Material Handling', 'Remote TCP']' to '['Additive Manufacturing', 'Assembly', 'Collaborative', 'Dispensing', 'Material Handling', 'Remote TCP'] (RoboDK)'
+	'Neuromeka-INDY7-RP2's AP has been updated, from '['Additive Manufacturing', 'Assembly', 'Dispensing', 'Material Handling', 'Remote TCP']' to '['Additive Manufacturing', 'Assembly', 'Collaborative', 'Dispensing', 'Material Handling', 'Remote TCP'] (RoboDK)'
+	'Niryo-One's AP has been updated, from '['Assembly', 'Inspection', 'Material Handling', 'Remote TCP']' to '['Assembly', 'Collaborative', 'Inspection', 'Material Handling', 'Remote TCP'] (RoboDK)'
+	'RB3-630ES's AP has been updated, from '['Assembly', 'Dispensing', 'Material Handling', 'Remote TCP']' to '['Assembly', 'Collaborative', 'Dispensing', 'Material Handling', 'Remote TCP'] (RoboDK)'
+	'RB6-920ES's AP has been updated, from '['Assembly', 'Dispensing', 'Material Handling', 'Remote TCP']' to '['Assembly', 'Collaborative', 'Dispensing', 'Material Handling', 'Remote TCP'] (RoboDK)'
+	'RB20-1900ES's AP has been updated, from '['Additive Manufacturing', 'Assembly', 'Dispensing', 'Material Handling', 'Remote TCP', 'Welding']' to '['Additive Manufacturing', 'Assembly', 'Collaborative', 'Dispensing', 'Material Handling', 'Remote TCP', 'Welding'] (RoboDK)'
+	'Siasun-SCR3's AP has been updated, from '['Assembly', 'Dispensing', 'Material Handling', 'Remote TCP']' to '['Assembly', 'Collaborative', 'Dispensing', 'Material Handling', 'Remote TCP'] (RoboDK)'
+	'Siasun-SCR5's AP has been updated, from '['Assembly', 'Dispensing', 'Material Handling', 'Remote TCP']' to '['Assembly', 'Collaborative', 'Dispensing', 'Material Handling', 'Remote TCP'] (RoboDK)'
+	'uFactory-850's AP has been updated, from '['Assembly', 'Dispensing', 'Material Handling', 'Remote TCP']' to '['Assembly', 'Collaborative', 'Dispensing', 'Material Handling', 'Remote TCP'] (RoboDK)'
+	'uFactory-Lite6's AP has been updated, from '['Assembly', 'Inspection', 'Material Handling', 'Remote TCP']' to '['Assembly', 'Collaborative', 'Inspection', 'Material Handling', 'Remote TCP'] (RoboDK)'
+	'uFactory-xArm7's AP has been updated, from '['Assembly', 'Dispensing', 'Material Handling', 'Remote TCP']' to '['Assembly', 'Collaborative', 'Dispensing', 'Material Handling', 'Remote TCP'] (RoboDK)'
+	'Yaskawa-HC20DTP's AP has been updated, from '['Additive Manufacturing', 'Assembly', 'Dispensing', 'Material Handling', 'Remote TCP', 'Welding']' to '['Additive Manufacturing', 'Assembly', 'Collaborative', 'Dispensing', 'Material Handling', 'Remote TCP', 'Welding'] (RoboDK)'
 -2025-06-16: 
 	'KUKA-iisy-3-R930' has been removed (RoboDK)
 	'KUKA-iisy-3-R1300' has been removed (RoboDK)
