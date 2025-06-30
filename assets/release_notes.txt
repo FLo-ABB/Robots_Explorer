@@ -1,3 +1,13 @@
+-2025-06-30: 
+	'Delta-Electronics-NEO15' has been removed (RoboDK)
+	'Delta-Electronics-NEO20' has been removed (RoboDK)
+	'Delta-Electronics-NEO30' has been removed (RoboDK)
+	'Comau-MyCo-3-5-0-95' has been added (RoboDK)
+	'Comau-MyCo-3-0-59' has been added (RoboDK)
+	'Comau-MyCo-5-0-80' has been added (RoboDK)
+	'Comau-MyCo-8-1-30' has been added (RoboDK)
+	'Comau-MyCo-10-1-00' has been added (RoboDK)
+	'Comau-MyCo-15-1-30' has been added (RoboDK)
 -2025-06-23: 
 	'Delta-Electronics-DC06' has been added (RoboDK)
 	'Delta-Electronics-DC08' has been added (RoboDK)
