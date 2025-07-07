@@ -1,3 +1,10 @@
+-2025-07-07: 
+	'Fanuc-CR-35iB' has been added (RoboDK)
+	'Yaskawa-DA20' has been added (RoboDK)
+	'GESSMANN-GESSbot-Gb350' has been added (RoboDK)
+	'Delta-Electronics-DC16's E has been updated, from '0.02' to '0.03 (RoboDK)'
+	'Delta-Electronics-DC20's E has been updated, from '0.02' to '0.03 (RoboDK)'
+	'Delta-Electronics-DC30's E has been updated, from '0.02' to '0.05 (RoboDK)'
 -2025-06-30: 
 	'Delta-Electronics-NEO15' has been removed (RoboDK)
 	'Delta-Electronics-NEO20' has been removed (RoboDK)
