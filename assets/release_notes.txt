@@ -1,3 +1,12 @@
+-2025-07-14: 
+	'Rokae-CR18-C' has been added (RoboDK)
+	'Rokae-CR20-C' has been added (RoboDK)
+	'Bota-ACC-KIN-GEN3' has been added (RoboDK)
+	'Bota-ACC-LAX-ISO-9409-1-50-4-M6' has been added (RoboDK)
+	'Bota-ACC-STAUBLI-TX2-40' has been added (RoboDK)
+	'Bota-BFT-SENS-xxx-M8' has been added (RoboDK)
+	'Bota-KIT-MIPS-MECA' has been added (RoboDK)
+	'Bota-LAX-UR20' has been added (RoboDK)
 -2025-07-07: 
 	'Fanuc-CR-35iB' has been added (RoboDK)
 	'Yaskawa-DA20' has been added (RoboDK)
