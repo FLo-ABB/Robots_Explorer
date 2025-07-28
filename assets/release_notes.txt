@@ -1,3 +1,16 @@
+-2025-07-28: 
+	'Fanuc-M-710iD-70' has been added (RoboDK)
+	'Kawasaki-BX300L' has been added (RoboDK)
+	'RB16-900E' has been added (RoboDK)
+	'Gudel-FP-1-300's MT has been updated, from 'M' to 'E (RoboDK)'
+	'Gudel-FP-1-300's I has been updated, from 'Gudel-FP-1-300.png' to 'Gudel-FP-1-300-robot.png (RoboDK)'
+	'Gudel-FP-1-300's IS has been updated, from 'None' to 'Gudel-FP-1-300.png (RoboDK)'
+	'Gudel-FP-1-300's T has been updated, from 'Mechanism' to 'Ext. axis (RoboDK)'
+	'Gudel-FP-1-300's R has been updated, from 'None' to '4000 (RoboDK)'
+	'Gudel-FP-6-300's MT has been updated, from 'M' to 'E (RoboDK)'
+	'Gudel-FP-6-300's I has been updated, from 'Gudel-FP-6-300.png' to 'Gudel-FP-6-300-robot.png (RoboDK)'
+	'Gudel-FP-6-300's IS has been updated, from 'None' to 'Gudel-FP-6-300.png (RoboDK)'
+	'Gudel-FP-6-300's T has been updated, from 'Mechanism' to 'Ext. axis (RoboDK)'
 -2025-07-14: 
 	'Rokae-CR18-C' has been added (RoboDK)
 	'Rokae-CR20-C' has been added (RoboDK)
