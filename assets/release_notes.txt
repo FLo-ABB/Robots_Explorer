@@ -1,3 +1,18 @@
+-2025-08-11: 
+	'Codian-D5-1100' has been added (RoboDK)
+	'Flexiv-Rizon-4s' has been added (RoboDK)
+	'Flexiv-Rizon-10' has been added (RoboDK)
+	'Flexiv-Rizon-10s' has been added (RoboDK)
+	'JAKA-K1-Left' has been added (RoboDK)
+	'JAKA-K1-Right' has been added (RoboDK)
+	'Kawasaki-BX200X' has been added (RoboDK)
+	'Kawasaki-ZX130L' has been added (RoboDK)
+	'Kawasaki-ZX165U' has been added (RoboDK)
+	'Kawasaki-ZX200S' has been added (RoboDK)
+	'Kawasaki-ZX300S' has been added (RoboDK)
+	'Rokae-SR3C' has been added (RoboDK)
+	'Yaskawa-HC10SDTP' has been added (RoboDK)
+	'Flexiv-Rizon-4's R has been updated, from '780' to '876 (RoboDK)'
 -2025-07-28: 
 	'Fanuc-M-710iD-70' has been added (RoboDK)
 	'Kawasaki-BX300L' has been added (RoboDK)
