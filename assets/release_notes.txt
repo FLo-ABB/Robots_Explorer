@@ -1,3 +1,30 @@
+-2025-08-25: 
+	'Elephant-Robotics-myCobot-280-M5' has been added (RoboDK)
+	'KUKA-KR-420-R3080' has been added (RoboDK)
+	'MiR100' has been added (RoboDK)
+	'MiR250' has been added (RoboDK)
+	'MiR500' has been added (RoboDK)
+	'MiR1000' has been added (RoboDK)
+	'MiR1350' has been added (RoboDK)
+	'FerRobotics-ACF-K-1321400-L-Grinder' has been added (RoboDK)
+	'FerRobotics-ACF-K-1350600-L-Grinder' has been added (RoboDK)
+	'FerRobotics-ACF-K-5263200-Grinder' has been added (RoboDK)
+	'FerRobotics-ACF-K-5263500-L-Grinder' has been added (RoboDK)
+	'FerRobotics-ACF-K-5477100-L-Grinder' has been added (RoboDK)
+	'FerRobotics-ACF-K-1536000-30-R-Sander' has been added (RoboDK)
+	'FerRobotics-ACF-K-5227600-L-Sander' has been added (RoboDK)
+	'FerRobotics-ACF-K-5227601-L-Sander' has been added (RoboDK)
+	'FerRobotics-ACF-K-5681900-L-Sander' has been added (RoboDK)
+	'FerRobotics-ACF-K-5683000-L-Sander' has been added (RoboDK)
+	'FerRobotics-ACF-K-5781400-L-Sander' has been added (RoboDK)
+	'FerRobotics-ACF-K-5851000-Sander' has been added (RoboDK)
+	'FerRobotics-ACF-K-NS11V00-Sander' has been added (RoboDK)
+	'FerRobotics-ATK-201-L-027-Taping-Tool' has been added (RoboDK)
+	'FerRobotics-ATK-201-R-027-Taping-Tool' has been added (RoboDK)
+	'Rokae-CR18-C's AP has been updated, from '['Additive Manufacturing', 'Assembly', 'Dispensing', 'Material Handling', 'Remote TCP', 'Welding']' to '['Additive Manufacturing', 'Assembly', 'Collaborative', 'Dispensing', 'Material Handling', 'Remote TCP', 'Welding'] (RoboDK)'
+	'Rokae-CR20-C's AP has been updated, from '['Additive Manufacturing', 'Assembly', 'Dispensing', 'Material Handling', 'Remote TCP', 'Welding']' to '['Additive Manufacturing', 'Assembly', 'Collaborative', 'Dispensing', 'Material Handling', 'Remote TCP', 'Welding'] (RoboDK)'
+	'Yaskawa-HC10SDTP's AP has been updated, from '['Additive Manufacturing', 'Assembly', 'Dispensing', 'Material Handling', 'Remote TCP', 'Welding']' to '['Additive Manufacturing', 'Assembly', 'Collaborative', 'Dispensing', 'Material Handling', 'Remote TCP', 'Welding'] (RoboDK)'
+	'Conveyor-Belt-Assembly-2m's AP has been updated, from '['Assembly', 'Conveying']' to '['Conveying'] (RoboDK)'
 -2025-08-11: 
 	'Codian-D5-1100' has been added (RoboDK)
 	'Flexiv-Rizon-4s' has been added (RoboDK)
