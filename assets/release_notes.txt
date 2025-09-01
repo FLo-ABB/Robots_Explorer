@@ -1,3 +1,10 @@
+-2025-09-01: 
+	'Fanuc-LR-Mate-200iD-14L' has been added (RoboDK)
+	'Gudel-TMF-1-6m' has been added (RoboDK)
+	'Gudel-TMF-2-6m' has been added (RoboDK)
+	'Gudel-TMF-3-10m' has been added (RoboDK)
+	'Gudel-TMF-4-15m' has been added (RoboDK)
+	'Gudel-TMF-5-20m' has been added (RoboDK)
 -2025-08-25: 
 	'Elephant-Robotics-myCobot-280-M5' has been added (RoboDK)
 	'KUKA-KR-420-R3080' has been added (RoboDK)
