@@ -1,3 +1,12 @@
+-2025-09-08: 
+	'ABB-IRB-5720-125-3-0' has been added (RoboDK)
+	'Huayan-S50-2000' has been added (RoboDK)
+	'INOVANCE-IR-R4-56S5' has been added (RoboDK)
+	'KUKA-KR-240-R3700-2' has been added (RoboDK)
+	'Ligent-SK12-2010' has been added (RoboDK)
+	'Peitian-AIR10-1210' has been added (RoboDK)
+	'Ligent-Welding-Tool' has been added (RoboDK)
+	'Zivid-On-Arm-Mount-OA221' has been added (RoboDK)
 -2025-09-01: 
 	'Fanuc-LR-Mate-200iD-14L' has been added (RoboDK)
 	'Gudel-TMF-1-6m' has been added (RoboDK)
