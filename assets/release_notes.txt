@@ -1,3 +1,15 @@
+-2025-09-29: 
+	'Denso-HS055A1' has been added (RoboDK)
+	'Elite-Robots-CS530H' has been added (RoboDK)
+	'Daihen-OTC-FD19-H5' has been added (RoboDK)
+	'UR7e' has been added (RoboDK)
+	'UR12e' has been added (RoboDK)
+	'Motoman-GP165R' has been added (RoboDK)
+	'Motoman-MOTOPOS-D250F' has been added (RoboDK)
+	IRB 1200 Gen2 added (AR Viewer App Database)
+	IRB 6750S added (AR Viewer App Database)
+	Added IRB1200Gen2_thumb.jpg to img folder (AR Viewer App Database)
+	Added IRB6750S_thumb.jpg to img folder (AR Viewer App Database)
 -2025-09-08: 
 	'ABB-IRB-5720-125-3-0' has been added (RoboDK)
 	'Huayan-S50-2000' has been added (RoboDK)
