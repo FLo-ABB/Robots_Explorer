@@ -1,3 +1,9 @@
+-2025-10-06: 
+	'UR8-Long' has been added (RoboDK)
+	'Kawasaki-BT200L's R has been updated, from '2597' to '3151 (RoboDK)'
+	'Kawasaki-BT200L's W has been updated, from '930' to '1100 (RoboDK)'
+	'Kawasaki-BX200X's R has been updated, from '2501' to '2812 (RoboDK)'
+	'Kawasaki-BX200X's W has been updated, from '3412' to '1460 (RoboDK)'
 -2025-09-29: 
 	'Denso-HS055A1' has been added (RoboDK)
 	'Elite-Robots-CS530H' has been added (RoboDK)
