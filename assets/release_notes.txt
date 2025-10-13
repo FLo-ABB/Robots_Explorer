@@ -1,3 +1,12 @@
+-2025-10-13: 
+	'Estun-ER350-3300' has been added (RoboDK)
+	'Estun-ER500-2800' has been added (RoboDK)
+	'Fanuc-LR-Mate-200iD-4SH' has been added (RoboDK)
+	'Kawasaki-BTP210L' has been added (RoboDK)
+	'Rozum-RC5' has been added (RoboDK)
+	'Rozum-RC10' has been added (RoboDK)
+	'Rozum-RC16' has been added (RoboDK)
+	'IDEC-SE2L-H05LP-Laser-Scanner' has been added (RoboDK)
 -2025-10-06: 
 	'UR8-Long' has been added (RoboDK)
 	'Kawasaki-BT200L's R has been updated, from '2597' to '3151 (RoboDK)'
