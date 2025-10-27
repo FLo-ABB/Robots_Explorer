@@ -1,3 +1,27 @@
+-2025-10-27: 
+	'Comau-Smart5-NJ-210-3-1-SH' has been added (RoboDK)
+	'CRP-RH21-06-W' has been added (RoboDK)
+	'CROBOTP-CRP-RP24-130' has been added (RoboDK)
+	'Denso-Cobotta-PRO-1300-Touch-sensing-soft-cover' has been added (RoboDK)
+	'DUCO-GCR5-910' has been added (RoboDK)
+	'Huayan-E05C' has been added (RoboDK)
+	'Kawasaki-MC006V' has been added (RoboDK)
+	'Daihen-OTC-FD-B26' has been added (RoboDK)
+	'Yaskawa-GP70L' has been added (RoboDK)
+	'Elite-Robots-CS530H's AP has been updated, from '['Additive Manufacturing', 'Assembly', 'Dispensing', 'Material Handling', 'Remote TCP']' to '['Additive Manufacturing', 'Assembly', 'Collaborative', 'Dispensing', 'Material Handling', 'Remote TCP'] (RoboDK)'
+	'Flexiv-Rizon-4's R has been updated, from '876' to '780 (RoboDK)'
+	'Huayan-E03's B has been updated, from 'Huayan Robotics' to 'Huayan Han's (RoboDK)'
+	'Huayan-E05's B has been updated, from 'Huayan Robotics' to 'Huayan Han's (RoboDK)'
+	'Huayan-E05-L's B has been updated, from 'Huayan Robotics' to 'Huayan Han's (RoboDK)'
+	'Huayan-E10's B has been updated, from 'Huayan Robotics' to 'Huayan Han's (RoboDK)'
+	'Huayan-E10-L's B has been updated, from 'Huayan Robotics' to 'Huayan Han's (RoboDK)'
+	'Huayan-E12's B has been updated, from 'Huayan Robotics' to 'Huayan Han's (RoboDK)'
+	'Huayan-E15's B has been updated, from 'Huayan Robotics' to 'Huayan Han's (RoboDK)'
+	'Huayan-S20-1700's B has been updated, from 'Huayan Robotics' to 'Huayan Han's (RoboDK)'
+	'Huayan-S30-1800's B has been updated, from 'Huayan Robotics' to 'Huayan Han's (RoboDK)'
+	'Huayan-S50-2000's B has been updated, from 'Huayan Robotics' to 'Huayan Han's (RoboDK)'
+	'Ligent-Welding-Tool's B has been updated, from 'None' to 'Ligent (RoboDK)'
+	'Ligent-Welding-Tool's M has been updated, from 'None' to 'Welding Tool (RoboDK)'
 -2025-10-13: 
 	'Estun-ER350-3300' has been added (RoboDK)
 	'Estun-ER500-2800' has been added (RoboDK)
