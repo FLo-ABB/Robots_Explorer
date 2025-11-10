@@ -1,3 +1,7 @@
+-2025-11-10: 
+	'Elite-Robots-EC68-08' has been added (RoboDK)
+	'Fanuc-M-710iC-50E' has been added (RoboDK)
+	'Omron-eCobra-600' has been added (RoboDK)
 -2025-10-27: 
 	'Comau-Smart5-NJ-210-3-1-SH' has been added (RoboDK)
 	'CRP-RH21-06-W' has been added (RoboDK)
