@@ -1,3 +1,18 @@
+-2025-12-01: 
+	'Fanuc-M-710iC-50H' has been added (RoboDK)
+	'Comau-MP-500' has been added (RoboDK)
+	'Comau-MP-1000' has been added (RoboDK)
+	'Comau-MP-1250' has been added (RoboDK)
+	'Comau-MP-2500' has been added (RoboDK)
+	'Comau-MP-5000' has been added (RoboDK)
+	'Comau-PTS-ORB-1000' has been added (RoboDK)
+	'Comau-PTS-ORB-1000-MT' has been added (RoboDK)
+	'Comau-RT-1500' has been added (RoboDK)
+	'Comau-RT-3000' has been added (RoboDK)
+	'Comau-PTDO-750-20' has been added (RoboDK)
+	'Comau-PTDO-750-45' has been added (RoboDK)
+	'INOVANCE-IRS311-7-90TS5-INT's P has been updated, from '-7' to '7 (RoboDK)'
+	'INOVANCE-IR-TS5-55Z15S3-INT's R has been updated, from '55' to '550 (RoboDK)'
 -2025-11-17: 
 	'Comau-Smart5-NJ-60-2-2-Off-set-Bending' has been added (RoboDK)
 	'Comau-Smart5-NJ-420-3-0' has been added (RoboDK)
