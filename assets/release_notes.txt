@@ -1,3 +1,7 @@
+-2025-12-15: 
+	'Standard-Bots-RO1' has been removed (RoboDK)
+	'Standard-Bots-Core' has been added (RoboDK)
+	'TANGCHENG-TC-06-2010A' has been added (RoboDK)
 -2025-12-08: 
 	'INOVANCE-IR-R4-56S5' has been removed (RoboDK)
 	'INOVANCE-IR-R4-56S5-INT' has been removed (RoboDK)
