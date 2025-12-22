@@ -1,3 +1,11 @@
+-2025-12-22: 
+	'RealMan-ECO65-6F' has been added (RoboDK)
+	'RealMan-ECO65-B' has been added (RoboDK)
+	'RealMan-RML63-6F' has been added (RoboDK)
+	'RealMan-RML63-B' has been added (RoboDK)
+	'RealMan-GEN72-B' has been added (RoboDK)
+	'RealMan-RM65-6F' has been added (RoboDK)
+	'RealMan-RM65-B' has been added (RoboDK)
 -2025-12-15: 
 	'Standard-Bots-RO1' has been removed (RoboDK)
 	'Standard-Bots-Core' has been added (RoboDK)
