@@ -1,3 +1,46 @@
+-2026-02-02: 
+	'Dobot-CR30H' has been added (RoboDK)
+	'Hanwha-HCR-10L' has been added (RoboDK)
+	'IIMT-CI-03' has been added (RoboDK)
+	'IIMT-CI-16' has been added (RoboDK)
+	'IIMT-CI-20' has been added (RoboDK)
+	'IIMT-CI-05' has been added (RoboDK)
+	'IIMT-CI-10' has been added (RoboDK)
+	'KUKA-KR-6-R1840-2-Arc-HW' has been added (RoboDK)
+	'KUKA-KR-8-R1440-2-Arc-HW-E' has been added (RoboDK)
+	'KUKA-KR-8-R1440-2-Arc-HW' has been added (RoboDK)
+	'KUKA-KR-8-R1640-2-Arc-HW' has been added (RoboDK)
+	'Neuromeka-OPTi3' has been added (RoboDK)
+	'Neuromeka-OPTi5' has been added (RoboDK)
+	'Daihen-OTC-FD-V80' has been added (RoboDK)
+	'Schneider-Electric-Lexium-SCARA-LXMRSP0650200' has been added (RoboDK)
+	'Schneider-Electric-Lexium-SCARA-LXMRSP0650300' has been added (RoboDK)
+	'Schneider-Electric-Lexium-SCARA-LXMRSP0660200' has been added (RoboDK)
+	'Schneider-Electric-Lexium-SCARA-LXMRSP0660300' has been added (RoboDK)
+	'Schneider-Electric-Lexium-SCARA-LXMRSP0670200' has been added (RoboDK)
+	'Schneider-Electric-Lexium-SCARA-LXMRSP0670300' has been added (RoboDK)
+	'Siasun-GCR3-618' has been added (RoboDK)
+	'Siasun-GCR7-910' has been added (RoboDK)
+	'Siasun-GCR12-1300' has been added (RoboDK)
+	'Siasun-GCR16-960' has been added (RoboDK)
+	'Siasun-GCR20-1400' has been added (RoboDK)
+	'Siasun-GCR25-1800' has been added (RoboDK)
+	'Siasun-GCR30-1100' has been added (RoboDK)
+	'Standard-Bots-Thor' has been added (RoboDK)
+	'Hanwha-HCR-14's W has been updated, from '25.2' to '42 (RoboDK)'
+	'INOVANCE-IR-R25-178S-INT's R has been updated, from '-1' to '1783 (RoboDK)'
+	'INOVANCE-IR-R25-178S-INT's P has been updated, from '-1' to '25 (RoboDK)'
+	'INOVANCE-IR-R25-178S-INT's W has been updated, from 'None' to '255 (RoboDK)'
+	'INOVANCE-IR-R25-178S-INT's E has been updated, from '-1' to '0.03 (RoboDK)'
+	'INOVANCE-IR-R25-178S-INT's AP has been updated, from '['Assembly', 'Dispensing', 'Material Handling', 'Remote TCP']' to '['Additive Manufacturing', 'Assembly', 'Dispensing', 'Material Handling', 'Remote TCP'] (RoboDK)'
+	'RealMan-RM75-6F's AP has been updated, from '['Assembly', 'Dispensing', 'Material Handling', 'Remote TCP']' to '['Assembly', 'Collaborative', 'Dispensing', 'Material Handling', 'Remote TCP'] (RoboDK)'
+	'Rokae-CR20-17-2-0C-5's AP has been updated, from '['Additive Manufacturing', 'Assembly', 'Dispensing', 'Finishing', 'Material Handling', 'Palletizing', 'Remote TCP', 'Welding']' to '['Additive Manufacturing', 'Assembly', 'Collaborative', 'Dispensing', 'Finishing', 'Material Handling', 'Palletizing', 'Remote TCP', 'Welding'] (RoboDK)'
+	'Rokae-CR20-25-1-8C-5's AP has been updated, from '['Additive Manufacturing', 'Assembly', 'Dispensing', 'Material Handling', 'Remote TCP']' to '['Additive Manufacturing', 'Assembly', 'Collaborative', 'Dispensing', 'Material Handling', 'Remote TCP'] (RoboDK)'
+	'Siasun-GCR5-910's R has been updated, from '912' to '917 (RoboDK)'
+	'Siasun-GCR5-910's W has been updated, from '21' to '22 (RoboDK)'
+	'Siasun-GCR5-910's E has been updated, from '0.05' to '0.02 (RoboDK)'
+	'Siasun-GCR10-1300's E has been updated, from '0.05' to '0.03 (RoboDK)'
+	'Yaskawa-NEX10's AP has been updated, from '['Assembly', 'Dispensing', 'Material Handling', 'Remote TCP']' to '['Additive Manufacturing', 'Assembly', 'Dispensing', 'Material Handling', 'Remote TCP', 'Welding'] (RoboDK)'
 -2025-12-29: 
 	'Rokae-CR20-17-2-0C-5' has been added (RoboDK)
 	'Rokae-CR20-25-1-8C-5' has been added (RoboDK)
