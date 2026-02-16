@@ -1,3 +1,11 @@
+-2026-02-16: 
+	'Motoman-MPX-1950' has been removed (RoboDK)
+	'Productive-Robotics-OB7' has been added (RoboDK)
+	'Kassow-Robots-KR0810's E has been updated, from '0.1' to '0.03 (RoboDK)'
+	'Kassow-Robots-KR1018's E has been updated, from '0.1' to '0.03 (RoboDK)'
+	'Kassow-Robots-KR1205's E has been updated, from '0.1' to '0.03 (RoboDK)'
+	'Kassow-Robots-KR1410's E has been updated, from '0.1' to '0.03 (RoboDK)'
+	'Kassow-Robots-KR1805's E has been updated, from '0.1' to '0.04 (RoboDK)'
 -2026-02-02: 
 	'Dobot-CR30H' has been added (RoboDK)
 	'Hanwha-HCR-10L' has been added (RoboDK)
