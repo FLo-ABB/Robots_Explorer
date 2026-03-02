@@ -1,3 +1,9 @@
+-2026-03-02: 
+	'UR18' has been added (RoboDK)
+	'Kawasaki-BX300L's R has been updated, from '2597' to '2812 (RoboDK)'
+	'Kawasaki-BX300L's P has been updated, from '200' to '300 (RoboDK)'
+	'Kawasaki-BX300L's W has been updated, from '930' to '1460 (RoboDK)'
+	'Kawasaki-BX300L's E has been updated, from '0.2' to '0.07 (RoboDK)'
 -2026-02-23: 
 	'TM5-700' has been removed (RoboDK)
 	'TM5-900' has been removed (RoboDK)
