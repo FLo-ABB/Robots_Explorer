@@ -1,3 +1,6 @@
+-2026-03-23: 
+	'Fanuc-M-20iD-35' has been added (RoboDK)
+	'Yaskawa-Motoman-GP250' has been added (RoboDK)
 -2026-03-16: 
 	'Motoman-MPL80' has been removed (RoboDK)
 	'Motoman-AR2010' has been removed (RoboDK)
