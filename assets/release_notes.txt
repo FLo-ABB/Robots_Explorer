@@ -1,3 +1,8 @@
+-2026-05-18: 
+	CRB 1910 deleted (AR Viewer App Database)
+	IRB 6760 deleted (AR Viewer App Database)
+	CRB 1920 deleted (AR Viewer App Database)
+	IRB 6730S deleted (AR Viewer App Database)
 -2026-04-13: 
 	'Hyundai-HDR35-20' has been added (RoboDK)
 	'Daihen-OTC-FD-B6L' has been added (RoboDK)
